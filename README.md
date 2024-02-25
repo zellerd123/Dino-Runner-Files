@@ -12,9 +12,12 @@ They are written with clarity and efficiency in mind, providing a solid foundati
 Please note that these scripts are designed to work within the Unity game development environment. To use these scripts:
 
 **Unity Account:** Ensure you have a Unity account. If not, you can create one at Unity's official website.
+
 **Project Setup:** Import these scripts into your Unity project. These files are configured to work with Unity, and direct execution outside this environment is not supported.
+
 **Environment Configuration:** Before running these scripts, ensure your Unity project is properly set up and configured to your account. This step is crucial as the scripts rely
 on Unity's ecosystem to function correctly.
+
 **Usage**
 The files in this repository serve as a showcase of the code implemented for "Dino Runner". They are provided as examples to demonstrate the programming techniques and logic used in the game's development. While these scripts are fully functional within a Unity environment, they require appropriate setup and configuration as mentioned above.
 
